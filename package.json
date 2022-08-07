@@ -1,8 +1,8 @@
 {
-  "name": "com.me.ecs-input",
+  "name": "com.me.ecs.essentials.input",
   "version": "1.0.0",
-  "displayName": "ME.ECS Input",
-  "description": "ME.ECS Input Package.",
+  "displayName": "ME.ECS Essentials Input",
+  "description": "ME.ECS Essentials Input Package.",
   "unity": "2020.3",
   "dependencies": {
     "com.unity.collections": "1.0.0-pre.6",
