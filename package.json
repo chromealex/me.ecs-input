@@ -4,6 +4,9 @@
   "displayName": "ME.ECS Essentials Input",
   "description": "ME.ECS Essentials Input Package.",
   "unity": "2020.3",
+  "ecsdependencies": [
+    "com.me.ecs.markers"
+  ],
   "dependencies": {
     "com.unity.collections": "1.0.0-pre.6",
     "com.unity.ui": "1.0.0-preview.18",
