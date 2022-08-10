@@ -7,7 +7,8 @@
         "ME.ECS.FPMath",
         "Unity.Mathematics",
         "ME.Pools",
-        "Unity.Collections"
+        "Unity.Collections",
+        "ME.ECS.Markers"
     ],
     "includePlatforms": [],
     "excludePlatforms": [],
